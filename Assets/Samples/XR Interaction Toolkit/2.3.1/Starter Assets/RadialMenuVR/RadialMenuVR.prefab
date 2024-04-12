@@ -150,6 +150,8 @@ MonoBehaviour:
   Entries: []
   rect: {fileID: 0}
   handPos: {fileID: 0}
+  leftHandPos: {fileID: 0}
+  menuModeCanvas: {fileID: 0}
   menuPosOffset: {x: 0, y: 0, z: 0}
   hand: {fileID: 0}
   toggleMenuOpenRef: {fileID: 0}
